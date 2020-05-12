@@ -1,6 +1,6 @@
 # Gradient Boosting
 
-The following is a description of each script and an order in which you run the code according to report (Section Experimental Results->Gradient Boosting):
+The following is a description of each script and an order in which you run the code:
 
 1.	Generalizationerror.m- plots generalization error
 2.	CV_25_mns_mls.m – conducts cross validation for 25 values of MaxNumSplits and 25 values of MinLeafSize
