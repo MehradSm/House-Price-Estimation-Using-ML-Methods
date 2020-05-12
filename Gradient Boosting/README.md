@@ -1,4 +1,4 @@
-# Gradient Boosting
+## Gradient Boosting
 
 The following is a description of each script and an order in which you run the code:
 
